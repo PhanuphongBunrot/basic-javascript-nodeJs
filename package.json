@@ -1,0 +1,19 @@
+{
+  "name": "nodejsbasic",
+  "version": "1.0.0",
+  "description": "nodejs for beginner",
+  "main": "sever.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhanuphongBunrot/basic-javascript-nodeJs.git"
+  },
+  "author": "nesdve",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PhanuphongBunrot/basic-javascript-nodeJs/issues"
+  },
+  "homepage": "https://github.com/PhanuphongBunrot/basic-javascript-nodeJs#readme"
+}
